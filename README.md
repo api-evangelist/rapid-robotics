@@ -64,5 +64,8 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rapid Robotics is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Rapid Robotics was a San Francisco robotics-as-a-service (RaaS) company, founded in 2019 by Jordan Kretchmer, that rented pre-trained six-axis "Rapid Machine Operators" to small and mid-size manufacturers on a subscription — roughly $25,000 per robot per year — to cover repetitive machine-tending work such as pad printing, injection molding, heat staking, heat stamping, ultrasonic welding, pick-and-place and parts inspection. The robots shipped with grippers, computer-vision software and models pre-trained on CAD, and were set up and supervised through a proprietary no-code fleet console rather than through a developer interface. The company raised about $54.2M in total — a $12M Series A in 2021 and a $36.7M Series B co-led by Kleiner Perkins and Tiger Global — and announced partnerships with Universal Robots and Yaskawa Motoman in early 2023. Rapid Robotics subsequently wound down, and its assets — hardware, marquee customers and the US team — were acquired by Munich-based RaaS company RobCo, which used them to enter the US market and announced a new San Francisco headquarters on 9 September 2025. The company never published a public API, SDK, developer portal, or machine-readable specification of any kind: 1,773 unique archived URLs on rapidrobotics.com contain no /api, /apis, /docs, /developer, /graphql or /sdk path. The domain is no longer operated by the company — it is delegated to ns1/ns2.atom.com and redirects to a brand-name marketplace listing. This profile is retained in the API Evangelist network as a historical record; there is no API surface to catalog.
+
+**Status:** defunct — assets acquired by RobCo. No public API surface was ever published.
+
+- Successor / acquirer: [RobCo](https://apis.io/providers/robco/) — https://www.rob.co/
