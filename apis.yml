@@ -46,6 +46,17 @@ x-enrichment-note: 'Enrichment probe 2026-08-26. Rapid Robotics is defunct: its 
   the company no longer serves one. Domain-security, well-known, packages and llms artifacts were all
   deliberately NOT written: probing the parked domain would have recorded Atom.com''s marketplace posture and
   credited it to Rapid Robotics. Zero artifacts written; any would be fabrication.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 specificationVersion: '0.23'
 created: '2026-08-26'
 modified: '2026-08-26'
