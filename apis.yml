@@ -17,6 +17,9 @@ description: 'Rapid Robotics was a San Francisco robotics-as-a-service (RaaS) co
   and redirects to a brand-name marketplace listing. This profile is retained in the API Evangelist network
   as a historical record; there is no API surface to catalog.'
 url: https://raw.githubusercontent.com/api-evangelist/rapid-robotics/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company never published a public API, SDK, developer portal, or machine-readable specification of any kind: 1,773 unique archived URLs on rapidrobotics.com contain no /api, /apis, /docs, /develope"
 x-type: company
 x-source: harvest:secondary-market
 x-tier: stub
