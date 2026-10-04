@@ -71,7 +71,7 @@ tags:
 - Industrial Automation
 - Manufacturing
 - Machine Tending
-- Computer-Vision
+- Computer Vision
 - Automation
 - Defunct
 - Acquired
@@ -86,6 +86,7 @@ tags_raw:
 - Automation
 - Defunct
 - Acquired
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
